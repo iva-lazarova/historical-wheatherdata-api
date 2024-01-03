@@ -1,6 +1,5 @@
 from flask import Flask, render_template
 import pandas as pd
-from datetime import datetime
 
 # Create a website object
 app = Flask(__name__)
